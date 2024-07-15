@@ -1,0 +1,29 @@
+﻿orchard,block,tree_number,code,ph,southern_blight,declining,sclerotia_number,sclerotia_mass_g
+FREC,golden delicious 2016,1,gd16-24-1,6.17 ,no,yes,0,0
+FREC,golden delicious 2016,2,gd16-24-2,5.81 ,no,yes,0,0
+FREC,golden delicious 2016,3,gd16-24-3,7.07 ,no,yes,0,0
+FREC,golden delicious 2016,4,gd16-24-4,5.79 ,no,yes,0,0
+FREC,golden delicious 2016,5,gd16-24-5,6.06 ,no,yes,0,0
+FREC,golden delicious 2016,6,gd16-24-6,6.7 ,no,yes,0,0
+FREC,golden delicious 2016,7,gd16-24-7,6.17 ,no,yes,0,0
+FREC,golden delicious 2016,8,gd16-24-8,6.88 ,no,yes,0,0
+FREC,golden delicious 2016,9,gd16-24-9,6.44 ,yes,yes,,
+FREC,golden delicious 2016,10,gd16-24-10,7.04 ,no,yes,0,0
+FREC,golden delicious 2016,11,gd16-24-11,6.09 ,no,yes,0,0
+FREC,golden delicious 2016,12,gd16-24-12,6.72 ,no,yes,0,0
+Lerew,honeycrisp b9,1,lrwb9-1,5.73 ,yes,yes,12,0.038
+Lerew,honeycrisp b9,2,lrwb9-2,5.2 ,no,yes,0,0
+Lerew,honeycrisp b9,3,lrwb9-3,5.35 ,yes,yes,1,0.009
+Lerew,honeycrisp b9,4,lrwb9-4,5.36 ,yes,yes,38,0.185
+Lerew,honeycrisp b9,5,lrwb9-5,5.39 ,yes,yes,1,0.004
+Lerew,honeycrisp b9,6,lrwb9-6,5.44 ,yes,yes,18,0.117
+Lerew,honeycrisp b9,7,lrwb9-7,5.65 ,no,no,0,0
+Lerew,honeycrisp b9,8,lrwb9-8,5.3 ,no,no,0,0
+Lerew,honeycrisp b9,9,lrwb9-9,5.49 ,no,no,0,0
+Lerew,honeycrisp b9,10,lrwb9-10,6 ,no,no,0,0
+Lerew,honeycrisp b9,11,lrwb9-11,5.45 ,no,no,0,0
+Lerew,honeycrisp b9,12,lrwb9-12,5.5 ,no,no,0,0
+Lerew,honeycrisp b10,1,lrwb10-1,5.61 ,yes,yes,3,0.016
+Lerew,honeycrisp b10,2,lrwb10-2,6.15 ,yes,yes,27,0.153
+Lerew,honeycrisp b10,3,lrwb10-3,5.49 ,no,no,0,0
+Lerew,honeycrisp b10,4,lrwb10-4,5.74 ,no,no,0,0
