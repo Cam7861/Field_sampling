@@ -1,0 +1,72 @@
+﻿orchard,block,code,date,site_history,symptoms,pathogen,sclerotia_number,sclerotia_mass_g,ph
+FREC,golden delicious 2016,gd16-24-r3t21,5/16/2024,yes,yes,no,0,0,6.17
+FREC,golden delicious 2016,gd16-24-r3t22,5/16/2024,yes,yes,no,0,0,5.81
+FREC,golden delicious 2016,gd16-24-r3t23,5/16/2024,yes,yes,no,0,0,7.07
+FREC,golden delicious 2016,gd16-24-r3t26,5/16/2024,yes,yes,no,0,0,5.79
+FREC,golden delicious 2016,gd16-24-r3t27,5/16/2024,yes,yes,no,0,0,6.06
+FREC,golden delicious 2016,gd16-24-r4t5,5/16/2024,yes,yes,no,0,0,6.7
+FREC,golden delicious 2016,gd16-24-r4t6,5/16/2024,yes,yes,no,0,0,6.17
+FREC,golden delicious 2016,gd16-24-r4t10,5/16/2024,yes,yes,no,0,0,6.88
+FREC,golden delicious 2016,gd16-24-r4t18,5/16/2024,yes,yes,yes,27,0.121,6.44
+FREC,golden delicious 2016,gd16-24-r4t25,5/16/2024,yes,yes,no,0,0,7.04
+FREC,golden delicious 2016,gd16-24-r5t21,5/16/2024,yes,yes,no,0,0,6.09
+FREC,golden delicious 2016,gd16-24-r5t25,5/16/2024,yes,yes,no,0,0,6.72
+Lerew,honeycrisp b9,lrwb9-1I,6/3/2024,yes,yes,yes,12,0.038,5.73
+Lerew,honeycrisp b9,lrwb9-2I,6/3/2024,yes,yes,no,0,0,5.2
+Lerew,honeycrisp b9,lrwb9-3I,6/3/2024,yes,yes,yes,1,0.009,5.35
+Lerew,honeycrisp b9,lrwb9-4I,6/3/2024,yes,yes,yes,38,0.185,5.36
+Lerew,honeycrisp b9,lrwb9-5I,6/3/2024,yes,yes,yes,1,0.004,5.39
+Lerew,honeycrisp b9,lrwb9-6I,6/3/2024,yes,yes,yes,18,0.117,5.44
+Lerew,honeycrisp b9,lrwb9-1H,6/3/2024,yes,no,no,0,0,5.65
+Lerew,honeycrisp b9,lrwb9-2H,6/3/2024,yes,no,no,0,0,5.3
+Lerew,honeycrisp b9,lrwb9-3H,6/3/2024,yes,no,no,0,0,5.49
+Lerew,honeycrisp b9,lrwb9-4H,6/3/2024,yes,no,no,0,0,6
+Lerew,honeycrisp b9,lrwb9-5H,6/3/2024,yes,no,no,0,0,5.45
+Lerew,honeycrisp b9,lrwb9-6H,6/3/2024,yes,no,no,0,0,5.5
+Lerew,honeycrisp b10,lrwb10-1I,6/3/2024,no,yes,yes,3,0.016,5.61
+Lerew,honeycrisp b10,lrwb10-2I,6/3/2024,no,yes,yes,27,0.153,6.15
+Lerew,honeycrisp b10,lrwb10-1H,6/3/2024,no,no,no,0,0,5.49
+Lerew,honeycrisp b10,lrwb10-2H,6/3/2024,no,no,no,0,0,5.74
+ACN,g16,acng16-1I,6/24/2024,yes,yes,no,0,0,5.56
+ACN,g16,acng16-2I,6/24/2024,yes,yes,no,0,0,6.24
+ACN,g16,acng16-3I,6/24/2024,yes,yes,no,0,0,5.95
+ACN,g16,acng16-4I,6/24/2024,yes,yes,no,0,0,5.64
+ACN,g16,acng16-5I,6/24/2024,yes,yes,no,0,0,5.6
+ACN,g16,acng16-6I,6/24/2024,yes,yes,no,0,0,5.33
+ACN,g16,acng16-7I,6/24/2024,yes,yes,no,0,0,5.58
+ACN,g16,acng16-8I,6/24/2024,yes,yes,no,0,0,5.43
+ACN,g16,acng16-9I,6/24/2024,yes,yes,no,0,0,5.59
+ACN,g16,acng16-10I,6/24/2024,yes,yes,no,0,0,5.61
+ACN,g16,acng16-11I,6/24/2024,yes,yes,no,0,0,5.83
+ACN,g16,acng16-12I,6/24/2024,yes,yes,no,0,0,5.97
+ACN,g16,acng16-13I,6/24/2024,yes,yes,no,0,0,5.22
+ACN,g16,acng16-14I,6/24/2024,yes,yes,no,0,0,5.57
+ACN,g16,acng16-1H,6/24/2024,yes,no,no,0,0,5.43
+ACN,g16,acng16-2H,6/24/2024,yes,no,no,0,0,5.63
+ACN,g16,acng16-3H,6/24/2024,yes,no,no,0,0,5.57
+ACN,g16,acng16-4H,6/24/2024,yes,no,no,0,0,5.66
+ACN,g16,acng16-5H,6/24/2024,yes,no,no,0,0,5.16
+ACN,g16,acng16-6H,6/24/2024,yes,no,no,0,0,5.69
+ACN,g16,acng16-7H,6/24/2024,yes,no,no,0,0,5.07
+ACN,g16,acng16-8H,6/24/2024,yes,no,no,0,0,5.55
+ACN,g16,acng16-9H,6/24/2024,yes,no,no,0,0,6.14
+ACN,g16,acng16-10H,6/24/2024,yes,no,no,0,0,5.74
+ACN,g16,acng16-11H,6/24/2024,yes,no,no,0,0,5.5
+ACN,g16,acng16-12H,6/24/2024,yes,no,no,0,0,5.36
+ACN,g16,acng16-13H,6/24/2024,yes,no,no,0,0,5.68
+ACN,g16,acng16-14H,6/24/2024,yes,no,no,0,0,5.17
+ACN,g11,acng11-1,6/24/2024,no,no,no,0,0,5.77
+ACN,g11,acng11-2,6/24/2024,no,no,no,0,0,5.79
+ACN,g11,acng11-3,6/24/2024,no,no,no,0,0,5.63
+ACN,g11,acng11-4,6/24/2024,no,no,no,0,0,5.7
+ACN,g11,acng11-5,6/24/2024,no,no,no,0,0,6.05
+ACN,g11,acng11-6,6/24/2024,no,no,no,0,0,6.07
+ACN,g11,acng11-7,6/24/2024,no,no,no,0,0,5.61
+ACN,g11,acng11-8,6/24/2024,no,no,no,0,0,5.43
+ACN,g11,acng11-9,6/24/2024,no,no,no,0,0,5.65
+ACN,g11,acng11-10,6/24/2024,no,no,no,0,0,5.5
+FREC,golden delicious 2016,gd16-24-r8t33,7/16/2024,yes,no,no,0,0,6.62
+FREC,golden delicious 2016,gd16-24-r4t24,7/17/2024,yes,no,no,0,0,6.6
+FREC,golden delicious 2016,gd16-24-r8t36,7/18/2024,yes,yes,yes,3,0.013,6.2
+FREC,golden delicious 2016,gd16-24-r2t12,7/19/2024,yes,no,no,0,0,7.14
+FREC,golden delicious 2016,gd16-24-r2t9,7/20/2024,yes,yes,yes,3,0.009,6.88
