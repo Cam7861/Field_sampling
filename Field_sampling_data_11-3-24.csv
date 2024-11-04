@@ -1,0 +1,194 @@
+﻿orchard,block,rootstock,code,date,site_history,symptoms,pathogen,sclerotia_number,sclerotia_mass_g,ph
+FREC,golden delicious 2016,b9,gd16-24-r3t21,5/16/2024,yes,yes,no,0,0,6.17
+FREC,golden delicious 2016,b9,gd16-24-r3t22,5/16/2024,yes,yes,no,0,0,5.81
+FREC,golden delicious 2016,b9,gd16-24-r3t23,5/16/2024,yes,yes,no,0,0,7.07
+FREC,golden delicious 2016,b9,gd16-24-r3t26,5/16/2024,yes,yes,no,0,0,5.79
+FREC,golden delicious 2016,b9,gd16-24-r3t27,5/16/2024,yes,yes,no,0,0,6.06
+FREC,golden delicious 2016,b9,gd16-24-r4t5,5/16/2024,yes,yes,no,0,0,6.7
+FREC,golden delicious 2016,b9,gd16-24-r4t6,5/16/2024,yes,yes,no,0,0,6.17
+FREC,golden delicious 2016,b9,gd16-24-r4t10,5/16/2024,yes,yes,no,0,0,6.88
+FREC,golden delicious 2016,b9,gd16-24-r4t18,5/16/2024,yes,yes,yes,27,0.121,6.44
+FREC,golden delicious 2016,b9,gd16-24-r4t25,5/16/2024,yes,yes,no,0,0,7.04
+FREC,golden delicious 2016,b9,gd16-24-r5t21,5/16/2024,yes,yes,no,0,0,6.09
+FREC,golden delicious 2016,b9,gd16-24-r5t25,5/16/2024,yes,yes,no,0,0,6.72
+Lerew,honeycrisp b9,b9,lrwb9-1I,6/3/2024,yes,yes,yes,12,0.038,5.73
+Lerew,honeycrisp b9,b9,lrwb9-2I,6/3/2024,yes,yes,no,0,0,5.2
+Lerew,honeycrisp b9,b9,lrwb9-3I,6/3/2024,yes,yes,yes,1,0.009,5.35
+Lerew,honeycrisp b9,b9,lrwb9-4I,6/3/2024,yes,yes,yes,38,0.185,5.36
+Lerew,honeycrisp b9,b9,lrwb9-5I,6/3/2024,yes,yes,yes,1,0.004,5.39
+Lerew,honeycrisp b9,b9,lrwb9-6I,6/3/2024,yes,yes,yes,18,0.117,5.44
+Lerew,honeycrisp b9,b9,lrwb9-1H,6/3/2024,yes,no,no,0,0,5.65
+Lerew,honeycrisp b9,b9,lrwb9-2H,6/3/2024,yes,no,no,0,0,5.3
+Lerew,honeycrisp b9,b9,lrwb9-3H,6/3/2024,yes,no,no,0,0,5.49
+Lerew,honeycrisp b9,b9,lrwb9-4H,6/3/2024,yes,no,no,0,0,6
+Lerew,honeycrisp b9,b9,lrwb9-5H,6/3/2024,yes,no,no,0,0,5.45
+Lerew,honeycrisp b9,b9,lrwb9-6H,6/3/2024,yes,no,no,0,0,5.5
+Lerew,honeycrisp b10,b10,lrwb10-1I,6/3/2024,no,yes,yes,3,0.016,5.61
+Lerew,honeycrisp b10,b10,lrwb10-2I,6/3/2024,no,yes,yes,27,0.153,6.15
+Lerew,honeycrisp b10,b10,lrwb10-1H,6/3/2024,no,no,no,0,0,5.49
+Lerew,honeycrisp b10,b10,lrwb10-2H,6/3/2024,no,no,no,0,0,5.74
+ACN,g16,g16,acng16-1I,6/24/2024,yes,yes,no,0,0,5.56
+ACN,g16,g16,acng16-2I,6/24/2024,yes,yes,no,0,0,6.24
+ACN,g16,g16,acng16-3I,6/24/2024,yes,yes,no,0,0,5.95
+ACN,g16,g16,acng16-4I,6/24/2024,yes,yes,no,0,0,5.64
+ACN,g16,g16,acng16-5I,6/24/2024,yes,yes,no,0,0,5.6
+ACN,g16,g16,acng16-6I,6/24/2024,yes,yes,no,0,0,5.33
+ACN,g16,g16,acng16-7I,6/24/2024,yes,yes,no,0,0,5.58
+ACN,g16,g16,acng16-8I,6/24/2024,yes,yes,no,0,0,5.43
+ACN,g16,g16,acng16-9I,6/24/2024,yes,yes,no,0,0,5.59
+ACN,g16,g16,acng16-10I,6/24/2024,yes,yes,no,0,0,5.61
+ACN,g16,g16,acng16-11I,6/24/2024,yes,yes,no,0,0,5.83
+ACN,g16,g16,acng16-12I,6/24/2024,yes,yes,no,0,0,5.97
+ACN,g16,g16,acng16-13I,6/24/2024,yes,yes,no,0,0,5.22
+ACN,g16,g16,acng16-14I,6/24/2024,yes,yes,no,0,0,5.57
+ACN,g16,g16,acng16-1H,6/24/2024,yes,no,no,0,0,5.43
+ACN,g16,g16,acng16-2H,6/24/2024,yes,no,no,0,0,5.63
+ACN,g16,g16,acng16-3H,6/24/2024,yes,no,no,0,0,5.57
+ACN,g16,g16,acng16-4H,6/24/2024,yes,no,no,0,0,5.66
+ACN,g16,g16,acng16-5H,6/24/2024,yes,no,no,0,0,5.16
+ACN,g16,g16,acng16-6H,6/24/2024,yes,no,no,0,0,5.69
+ACN,g16,g16,acng16-7H,6/24/2024,yes,no,no,0,0,5.07
+ACN,g16,g16,acng16-8H,6/24/2024,yes,no,no,0,0,5.55
+ACN,g16,g16,acng16-9H,6/24/2024,yes,no,no,0,0,6.14
+ACN,g16,g16,acng16-10H,6/24/2024,yes,no,no,0,0,5.74
+ACN,g16,g16,acng16-11H,6/24/2024,yes,no,no,0,0,5.5
+ACN,g16,g16,acng16-12H,6/24/2024,yes,no,no,0,0,5.36
+ACN,g16,g16,acng16-13H,6/24/2024,yes,no,no,0,0,5.68
+ACN,g16,g16,acng16-14H,6/24/2024,yes,no,no,0,0,5.17
+ACN,g11,g11,acng11-1,6/24/2024,no,no,no,0,0,5.77
+ACN,g11,g11,acng11-2,6/24/2024,no,no,no,0,0,5.79
+ACN,g11,g11,acng11-3,6/24/2024,no,no,no,0,0,5.63
+ACN,g11,g11,acng11-4,6/24/2024,no,no,no,0,0,5.7
+ACN,g11,g11,acng11-5,6/24/2024,no,no,no,0,0,6.05
+ACN,g11,g11,acng11-6,6/24/2024,no,no,no,0,0,6.07
+ACN,g11,g11,acng11-7,6/24/2024,no,no,no,0,0,5.61
+ACN,g11,g11,acng11-8,6/24/2024,no,no,no,0,0,5.43
+ACN,g11,g11,acng11-9,6/24/2024,no,no,no,0,0,5.65
+ACN,g11,g11,acng11-10,6/24/2024,no,no,no,0,0,5.5
+FREC,golden delicious 2016,b9,gd16-24-r8t33,7/16/2024,yes,no,no,0,0,6.62
+FREC,golden delicious 2016,b9,gd16-24-r4t24,7/16/2024,yes,no,no,0,0,6.6
+FREC,golden delicious 2016,b9,gd16-24-r8t36,7/16/2024,yes,yes,yes,3,0.013,6.2
+FREC,golden delicious 2016,b9,gd16-24-r2t12,7/16/2024,yes,no,no,0,0,7.14
+FREC,golden delicious 2016,b9,gd16-24-r2t9,7/16/2024,yes,yes,yes,3,0.009,6.88
+FREC,rouzer rome,mixed,rr-1,7/19/2024,no,no,no,0,0,7.04
+FREC,rouzer rome,mixed,rr-2,7/19/2024,no,no,no,0,0,6.7
+FREC,rouzer rome,mixed,rr-3,7/19/2024,no,no,no,0,0,6.33
+FREC,rouzer rome,mixed,rr-4,7/19/2024,no,no,no,0,0,7.12
+FREC,rouzer rome,mixed,rr-5,7/19/2024,no,no,no,0,0,5.74
+FREC,rouzer rome,mixed,rr-6,7/19/2024,no,no,no,0,0,7.33
+FREC,rouzer rome,mixed,rr-7,7/19/2024,no,no,no,0,0,6.33
+FREC,rouzer rome,mixed,rr-8,7/19/2024,no,no,no,0,0,6.37
+FREC,rouzer rome,mixed,rr-9,7/19/2024,no,no,no,0,0,6.76
+FREC,rouzer rome,mixed,rr-10,7/19/2024,no,no,no,0,0,6.24
+Pitzer,forest,,pitz-a1,7/30/2024,no,no,no,0,0,5.85
+Pitzer,forest,,pitz-a2,7/30/2024,no,no,no,0,0,6.13
+Pitzer,forest,,pitz-a3,7/30/2024,no,no,no,0,0,6.25
+Pitzer,forest,,pitz-a4,7/30/2024,no,no,no,0,0,6.14
+Pitzer,forest,,pitz-a5,7/30/2024,no,no,no,0,0,6.92
+Pitzer,forest,,pitz-a6,7/30/2024,no,no,no,0,0,6.77
+Pitzer,forest,,pitz-a7,7/30/2024,no,no,no,0,0,6.41
+Pitzer,forest,,pitz-a8,7/30/2024,no,no,no,0,0,6.85
+Pitzer,forest,,pitz-a9,7/30/2024,no,no,no,0,0,6.8
+Pitzer,forest,,pitz-a10,7/30/2024,no,no,no,0,0,6.61
+Pitzer,road,,pitz-b1,7/30/2024,no,no,no,0,0,6.21
+Pitzer,road,,pitz-b2,7/30/2024,no,no,no,0,0,6.35
+Pitzer,road,,pitz-b3,7/30/2024,no,no,no,0,0,6.11
+Pitzer,road,,pitz-b4,7/30/2024,no,no,no,0,0,5.39
+Pitzer,road,,pitz-b5,7/30/2024,no,no,no,0,0,5.88
+Pitzer,road,,pitz-b6,7/30/2024,no,no,no,0,0,6.67
+Pitzer,road,,pitz-b7,7/30/2024,no,no,no,0,0,6.85
+Pitzer,road,,pitz-b8,7/30/2024,no,no,no,0,0,6.52
+Pitzer,road,,pitz-b9,7/30/2024,no,no,no,0,0,6.04
+Pitzer,road,,pitz-b10,7/30/2024,no,no,no,0,0,5.41
+FREC,crab apple bidinger,,ca-1,8/6/2024,no,no,no,0,0,6.96
+FREC,crab apple bidinger,,ca-2,8/6/2024,no,no,no,0,0,6.77
+FREC,crab apple bidinger,,ca-3,8/6/2024,no,no,no,0,0,6.84
+FREC,crab apple bidinger,,ca-4,8/6/2024,no,no,no,0,0,6.52
+FREC,crab apple bidinger,,ca-5,8/6/2024,no,no,no,0,0,6.5
+FREC,crab apple bidinger,,ca-6,8/6/2024,no,no,no,0,0,6.04
+FREC,crab apple bidinger,,ca-7,8/6/2024,no,no,no,0,0,5.87
+FREC,crab apple bidinger,,ca-8,8/6/2024,no,no,no,0,0,6.34
+FREC,crab apple bidinger,,ca-9,8/6/2024,no,no,no,0,0,6.8
+FREC,crab apple bidinger,,ca-10,8/6/2024,no,no,no,0,0,6.85
+FREC,2018 gala,mixed,gla18-24-1,8/6/2024,yes,no,no,0,0,6.49
+FREC,2018 gala,mixed,gla18-24-2,8/6/2024,yes,no,no,0,0,6.39
+FREC,2018 gala,mixed,gla18-24-3,8/6/2024,yes,no,no,0,0,6.91
+FREC,2018 gala,mixed,gla18-24-4,8/6/2024,yes,no,no,0,0,6.81
+FREC,2018 gala,mixed,gla18-24-5,8/6/2024,yes,no,no,0,0,6.62
+FREC,2018 gala,mixed,gla18-24-6,8/6/2024,yes,no,no,0,0,6.34
+FREC,2018 gala,mixed,gla18-24-7,8/6/2024,yes,no,no,0,0,6.01
+FREC,2018 gala,mixed,gla18-24-8,8/6/2024,yes,no,no,0,0,5.71
+FREC,2018 gala,mixed,gla18-24-9,8/6/2024,yes,no,no,0,0,6.75
+FREC,2018 gala,mixed,gla18-24-10,8/6/2024,yes,no,no,0,0,6.23
+Hollabaugh,Infected (A),b9,HBA-1I,8/13/2024,yes,yes,yes,,,6.16
+Hollabaugh,Infected (A),b9,HBA-1H,8/13/2024,yes,no,,,,6.46
+Hollabaugh,Infected (A),b9,HBA-2I,8/13/2024,yes,yes,yes,,,6.09
+Hollabaugh,Infected (A),b9,HBA-2H,8/13/2024,yes,no,,,,6.23
+Hollabaugh,Infected (A),b9,HBA-3I,8/13/2024,yes,yes,yes,,,5.93
+Hollabaugh,Infected (A),b9,HBA-3H,8/13/2024,yes,no,,,,6.81
+Hollabaugh,Infected (A),b9,HBA-4I,8/13/2024,yes,yes,yes,,,5.64
+Hollabaugh,Infected (A),b9,HBA-4H,8/13/2024,yes,no,,,,6.09
+Hollabaugh,Infected (A),b9,HBA-5I,8/13/2024,yes,yes,yes,,,5.99
+Hollabaugh,Infected (A),b9,HBA-5H,8/13/2024,yes,no,,,,5.34
+Hollabaugh,Infected (A),b9,HBA-6I,8/13/2024,yes,yes,yes,,,6.61
+Hollabaugh,Infected (A),b9,HBA-6H,8/13/2024,yes,no,,,,5.6
+Hollabaugh,Historic (B),mixed,HBC-1,8/13/2024,yes,no,,,,5
+Hollabaugh,Historic (B),mixed,HBC-2,8/13/2024,yes,no,,,,5.04
+Hollabaugh,Historic (B),mixed,HBC-3,8/13/2024,yes,no,,,,5.68
+Hollabaugh,Historic (B),mixed,HBC-4,8/13/2024,yes,no,,,,5.33
+Hollabaugh,Historic (B),mixed,HBC-5,8/13/2024,yes,no,,,,5.05
+Hollabaugh,Historic (B),mixed,HBC-6,8/13/2024,yes,no,,,,4.9
+Hollabaugh,Historic (B),mixed,HBC-7,8/13/2024,yes,no,,,,5.22
+Hollabaugh,Historic (B),mixed,HBC-8,8/13/2024,yes,no,,,,4.88
+Hollabaugh,Historic (B),mixed,HBC-9,8/13/2024,yes,no,,,,6.03
+Hollabaugh,Historic (B),mixed,HBC-10,8/13/2024,yes,no,,,,5.27
+Hollabaugh,No history (C),,HBB-1,8/13/2024,no,no,,,,5.2
+Hollabaugh,No history (C),,HBB-2,8/13/2024,no,no,,,,5.52
+Hollabaugh,No history (C),,HBB-3,8/13/2024,no,no,,,,5.15
+Hollabaugh,No history (C),,HBB-4,8/13/2024,no,no,,,,5.8
+Hollabaugh,No history (C),,HBB-5,8/13/2024,no,no,,,,6.07
+Hollabaugh,No history (C),,HBB-6,8/13/2024,no,no,,,,5.72
+Hollabaugh,No history (C),,HBB-7,8/13/2024,no,no,,,,6.44
+Hollabaugh,No history (C),,HBB-8,8/13/2024,no,no,,,,5.81
+Hollabaugh,No history (C),,HBB-9,8/13/2024,no,no,,,,6.85
+Hollabaugh,No history (C),,HBB-10,8/13/2024,no,no,,,,6.15
+Bear Mountain,A,,BMA-1,8/14/2024,no,no,,,,6.39
+Bear Mountain,A,,BMA-2,8/14/2024,no,no,,,,6.93
+Bear Mountain,A,,BMA-3,8/14/2024,no,no,,,,6.34
+Bear Mountain,A,,BMA-4,8/14/2024,no,no,,,,6.24
+Bear Mountain,A,,BMA-5,8/14/2024,no,no,,,,6.2
+Bear Mountain,A,,BMA-6,8/14/2024,no,no,,,,6.62
+Bear Mountain,A,,BMA-7,8/14/2024,no,no,,,,6.33
+Bear Mountain,A,,BMA-8,8/14/2024,no,no,,,,6.94
+Bear Mountain,A,,BMA-9,8/14/2024,no,no,,,,7.32
+Bear Mountain,A,,BMA-10,8/14/2024,no,no,,,,7.13
+Bear Mountain,B,,BMB-1,8/14/2024,no,no,,,,6.52
+Bear Mountain,B,,BMB-2,8/14/2024,no,no,,,,6.84
+Bear Mountain,B,,BMB-3,8/14/2024,no,no,,,,6.46
+Bear Mountain,B,,BMB-4,8/14/2024,no,no,,,,6.26
+Bear Mountain,B,,BMB-5,8/14/2024,no,no,,,,6.34
+Bear Mountain,B,,BMB-6,8/14/2024,no,no,,,,6.23
+Bear Mountain,B,,BMB-7,8/14/2024,no,no,,,,6.02
+Bear Mountain,B,,BMB-8,8/14/2024,no,no,,,,6.05
+Bear Mountain,B,,BMB-9,8/14/2024,no,no,,,,6.16
+Bear Mountain,B,,BMB-10,8/14/2024,no,no,,,,6.39
+El vista,M7,M7,EV-M7-1,8/16/2024,no,no,,,,6.5
+El vista,M7,M7,EV-M7-2,8/16/2024,no,no,,,,6.34
+El vista,M7,M7,EV-M7-3,8/16/2024,no,no,,,,7
+El vista,M7,M7,EV-M7-4,8/16/2024,no,no,,,,6.84
+El vista,M7,M7,EV-M7-5,8/16/2024,no,no,,,,6.1
+El vista,M7,M7,EV-M7-6,8/16/2024,no,no,,,,6.89
+El vista,M7,M7,EV-M7-7,8/16/2024,no,no,,,,6.37
+El vista,M7,M7,EV-M7-8,8/16/2024,no,no,,,,6.76
+El vista,M7,M7,EV-M7-9,8/16/2024,no,no,,,,6.86
+El vista,M7,M7,EV-M7-10,8/16/2024,no,no,,,,6.58
+El vista,b9,b9,EV-B9-1,8/16/2024,no,no,,,,6.16
+El vista,b9,b9,EV-B9-2,8/16/2024,no,no,,,,8.11
+El vista,b9,b9,EV-B9-3,8/16/2024,no,no,,,,6.39
+El vista,b9,b9,EV-B9-4,8/16/2024,no,no,,,,7.68
+El vista,b9,b9,EV-B9-5,8/16/2024,no,no,,,,6.43
+El vista,b9,b9,EV-B9-6,8/16/2024,no,no,,,,5.93
+El vista,b9,b9,EV-B9-7,8/16/2024,no,no,,,,6.12
+El vista,b9,b9,EV-B9-8,8/16/2024,no,no,,,,6.33
+El vista,b9,b9,EV-B9-9,8/16/2024,no,no,,,,6.5
+El vista,b9,b9,EV-B9-10,8/16/2024,no,no,,,,6.3
